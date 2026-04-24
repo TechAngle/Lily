@@ -1,6 +1,8 @@
 # Lily
 Dark theme for Chromium
 
+![screenshot](theme_screenshot.png)
+
 ## About theme
 I made it after I found old 2017 theme on [Chrome Web Store](https://chromewebstore.google.com/detail/awesome-anime-white-editi/fnomgkakoaflafmeonlomogchidbmadp).
 But I liked wallpapers and wanted to change colours a bit, so created my own one.
